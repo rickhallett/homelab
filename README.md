@@ -67,6 +67,7 @@ The cluster doesn't care which.
 | [Architecture](docs/architecture.md) | Network topology, node roles, failure domains |
 | [Air-Gap Kit](docs/air-gap-kit.md) | Offline resources for when Google isn't an option |
 | [Learning Log](docs/learning-log.md) | Daily proof of work |
+| [Signal](docs/signal.md) | What this proves to hiring managers |
 
 ## The Goals
 
